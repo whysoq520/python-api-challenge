@@ -18,7 +18,7 @@ Your objective is to build a series of scatter plots to showcase the following r
 * Humidity (%) vs. Latitude
 ![Equator](Images/equatorsign.png)
 * Cloudiness (%) vs. Latitude
-![latcloud](Images/latvsCloudiness.png)
+![latvsCloudiness](Images/latvsCloudiness.png)
 * Wind Speed (mph) vs. Latitude
 ![Equator](Images/equatorsign.png)
 
