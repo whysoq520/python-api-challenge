@@ -11,13 +11,21 @@ Analyst objective is to build a series of scatter plots to showcase the followin
 
 # Data Model
 The datafrome contains 500+ rows in all of the follwing columns:
+
 *1.CityLatitude
+
 *2.CityLongitude
+
 *3.MaxTemperature
+
 *4.Humidity
+
 *5.CloudCoverage
+
 *6.WindSpeed
+
 *7.CityCountry
+
 *8.CityDatetime
 
 #Tools: Python Pandas, API
