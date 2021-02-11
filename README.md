@@ -20,7 +20,7 @@ Your objective is to build a series of scatter plots to showcase the following r
 * Cloudiness (%) vs. Latitude
 ![latvsCloudiness](Images/latvsCloudiness.png)
 * Wind Speed (mph) vs. Latitude
-![latvsWind Speed](Images/latvsWind Speed.png)
+![latvsWindSpeed](Images/latvsWindSpeed.png)
 
 
 
