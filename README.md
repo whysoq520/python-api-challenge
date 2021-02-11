@@ -14,13 +14,13 @@ In this example, you'll be creating a Python script to visualize the weather of 
 Your objective is to build a series of scatter plots to showcase the following relationships:
 
 * Temperature (F) vs. Latitude
-![Equator](Images/equatorsign.png)
+![latvstemp](Images/latvstemp.png)
 * Humidity (%) vs. Latitude
-![Equator](Images/equatorsign.png)
+![latvshumidity](Images/latvshumidity.png)
 * Cloudiness (%) vs. Latitude
 ![latvsCloudiness](Images/latvsCloudiness.png)
 * Wind Speed (mph) vs. Latitude
-![Equator](Images/equatorsign.png)
+![latvsWindSpeed](Images/latvsWindSpeed.png)
 
 
 
