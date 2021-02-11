@@ -1,9 +1,31 @@
 # What's the Weather Like?
+Analyst objective is to build a series of scatter plots to showcase the following relationships:
 
+Temperature (F) vs. Latitude
+Humidity (%) vs. Latitude
+Cloudiness (%) vs. Latitude
+Wind Speed (mph) vs. Latitude
 
-Whether financial, political, or social -- data's true power lies in its ability to answer questions definitively. In this projesct , Python requests, APIs, and JSON traversals are applied to answer a fundamental question: "What's the weather like as we approach the equator?"
+# Data Model
+The datafrome contains 500+ rows in all of the follwing columns:
+1.CityLatitude
+2.CityLongitude
+3.MaxTemperature
+4.Humidity
+5.CloudCoverage
+6.WindSpeed
+7.CityCountry
+8.CityDatetime
 
+#Tools: Python Pandas, API
+In this projesct , Python requests, APIs, and JSON traversals are applied to answer a fundamental question: "What's the weather like as we approach the equator?"
 
+Tools: pip install citypy
+
+Knowledge:
+1. GeoGraphic Coordinate System: https://desktop.arcgis.com/en/arcmap/10.3/guide-books/map-projections/about-geographic-coordinate-systems.htm
+2. Citypy Python library:https://pypi.org/project/citipy/
+3.
 
 ![Equator](Images/equatorsign.png)
 
