@@ -30,28 +30,25 @@ The datafrome contains 500+ rows in all of the follwing columns:
 
 # Tools: 
 
-Python, python Pandas, API, citypy library, numpy
+Python, python Pandas, API, citypy library, numpy, requests
 
  pip install citypy
 
 
 
-
-
-In this projesct , Python requests, APIs, and JSON traversals are applied to answer a fundamental question: "What's the weather like as we approach the equator?"
-
-
-
 Knowledge:
-1. GeoGraphic Coordinate System: https://desktop.arcgis.com/en/arcmap/10.3/guide-books/map-projections/about-geographic-coordinate-systems.htm
-2. Citypy Python library:https://pypi.org/project/citipy/
-3. OpenWeatherMap API: https://openweathermap.org/api
+1. [GeoGraphic Coordinate System](https://desktop.arcgis.com/en/arcmap/10.3/guide-books/map-projections/about-geographic-coordinate-systems.htm)
+2. [Citipy](https://pypi.python.org/pypi/citipy)
+3. [OpenWeatherMap API](https://openweathermap.org/api)
 
+
+
+
+# Results
 ![Equator](Images/equatorsign.png)
 
 ## WeatherPy
 
-In this example, you'll be creating a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator. To accomplish this, you'll be utilizing a [simple Python library](https://pypi.python.org/pypi/citipy), the [OpenWeatherMap API](https://openweathermap.org/api), and a little common sense to create a representative model of weather across world cities.
 
 Your objective is to build a series of scatter plots to showcase the following relationships:
 
