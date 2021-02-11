@@ -28,15 +28,24 @@ The datafrome contains 500+ rows in all of the follwing columns:
 
 *8.CityDatetime
 
-#Tools: Python Pandas, API
+# Tools: 
+
+Python, python Pandas, API, citypy library, numpy
+
+ pip install citypy
+
+
+
+
+
 In this projesct , Python requests, APIs, and JSON traversals are applied to answer a fundamental question: "What's the weather like as we approach the equator?"
 
-Tools: pip install citypy
+
 
 Knowledge:
 1. GeoGraphic Coordinate System: https://desktop.arcgis.com/en/arcmap/10.3/guide-books/map-projections/about-geographic-coordinate-systems.htm
 2. Citypy Python library:https://pypi.org/project/citipy/
-3.
+3. OpenWeatherMap API: https://openweathermap.org/api
 
 ![Equator](Images/equatorsign.png)
 
