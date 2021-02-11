@@ -30,7 +30,7 @@ The datafrome contains 500+ rows in all of the follwing columns:
 
 # Tools: 
 
-Python, python Pandas, API, citypy library, numpy, requests
+Python 3.7, python Pandas, API, citypy library, numpy, requests
 
  pip install citypy
 
